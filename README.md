@@ -13,4 +13,4 @@ You can find the cli on [npm](https://www.npmjs.com/package/@puresamari/spb).
 
 # Links
 
-- [Changelog](https://github.com/puresamari/spb/blob/master/CHANGELOG.md)
+- [Changelog](https://github.com/silurt/spb/blob/master/CHANGELOG.md)
